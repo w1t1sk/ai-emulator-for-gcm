@@ -1,4 +1,4 @@
-# Emulator Aquaplanet Training Repo
+# Repository for training of neural network emulator of Aquaplanet
 
 This repository contains the main training and evaluation pipeline for the aquaplanet emulator.
 
