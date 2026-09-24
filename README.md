@@ -1,4 +1,4 @@
-# Repository for training of neural network emulator of Aquaplanet
+# Repository for training of neural network emulator over long runs generated from a (physics-based) Global Climate Model
 
 This repository contains the main training and evaluation pipeline for the aquaplanet emulator.
 
